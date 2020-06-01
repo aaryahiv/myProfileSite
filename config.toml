@@ -1,0 +1,5 @@
+baseURL = "https://aaryahiv.github.io/"
+languageCode = "en-us"
+title = "Home"
+theme = "ananke"
+sectionPagesMenu = "main"

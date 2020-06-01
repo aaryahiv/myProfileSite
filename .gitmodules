@@ -1,0 +1,27 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/hyde-hyde"]
+	path = themes/hyde-hyde
+	url = https://github.com/htr3n/hyde-hyde.git
+[submodule "personal-web"]
+	path = personal-web
+	url = https://github.com/bjacquemet/personal-web.git
+[submodule "mediumish-gohugo-theme"]
+	path = mediumish-gohugo-theme
+	url = https://github.com/lgaida/mediumish-gohugo-theme
+[submodule "hugo-artists-theme"]
+	path = hugo-artists-theme
+	url = https://github.com/digitalcraftsman/hugo-artists-theme
+[submodule "hugo-creative-theme"]
+	path = hugo-creative-theme
+	url = https://github.com/digitalcraftsman/hugo-creative-theme
+[submodule "arabica"]
+	path = arabica
+	url = https://github.com/nirocfz/arabica
+[submodule "themes/Niello"]
+	path = themes/Niello
+	url = https://github.com/guangmean/Niello.git
+[submodule "themes/hugo-flex"]
+	path = themes/hugo-flex
+	url = https://github.com/de-souza/hugo-flex.git
